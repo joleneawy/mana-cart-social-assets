@@ -14,7 +14,8 @@
       "channelId": "6af6ef7162b70b94b01912b0"
     },
     "tiktok": {
-      "status": "sending",
+      "status": "draft",
+      "postId": "6af6f3879a21933ffacf2817",
       "channelId": "6af6f00962b70b94b0191b28"
     }
   },
