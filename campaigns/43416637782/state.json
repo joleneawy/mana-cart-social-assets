@@ -11,11 +11,11 @@
       "sentAt": "2026-11-13T11:24:38.321Z"
     },
     "instagram": {
-      "status": "sending",
+      "status": "sent",
       "postId": "6af6f37a10ced6793b2f661f",
       "channelId": "6af6ef7162b70b94b01912b0",
-      "externalLink": null,
-      "sentAt": null
+      "externalLink": "https://www.instagram.com/reel/DfrhIhPAjfv/",
+      "sentAt": "2026-11-13T11:25:40.596Z"
     },
     "tiktok": {
       "status": "draft",
