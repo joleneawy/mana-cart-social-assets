@@ -2,6 +2,11 @@
   "fingerprint": "79712a5f99e68e23d7461288a0f34ce9dc9517b7813c4bc6b7c869d83f489cef",
   "releaseId": 449751296,
   "tag": "v2026.11.18",
-  "posts": {},
+  "posts": {
+    "facebook": {
+      "status": "sending",
+      "channelId": "6af6e5f262b70b94b018b1ae"
+    }
+  },
   "videoUrl": "https://raw.githubusercontent.com/joleneawy/mana-cart-social-assets/e0f8f5c50806b27d593e9f80dec40dca0657312a/campaigns/449751296/announcement.mp4"
 }
