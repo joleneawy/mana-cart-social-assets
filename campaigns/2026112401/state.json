@@ -12,6 +12,10 @@
       "status": "sending",
       "postId": "6b056007637ab97445e029d7",
       "channelId": "6af6ef7162b70b94b01912b0"
+    },
+    "tiktok": {
+      "status": "sending",
+      "channelId": "6af6f00962b70b94b0191b28"
     }
   },
   "videoUrl": "https://raw.githubusercontent.com/joleneawy/mana-cart-social-assets/3aeef292086a191857f027e61b14eaba7fd53029/campaigns/2026112401/announcement.mp4"
