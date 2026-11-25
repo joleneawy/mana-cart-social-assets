@@ -2,6 +2,11 @@
   "fingerprint": "6cc5f77430926006f332cd239b2687793f0a2136e8d758014552c16ce0f18617",
   "releaseId": 2026112501,
   "tag": "regular-lively-us-promo-2026112501",
-  "posts": {},
+  "posts": {
+    "facebook": {
+      "status": "sending",
+      "channelId": "6af6e5f262b70b94b018b1ae"
+    }
+  },
   "videoUrl": "https://raw.githubusercontent.com/joleneawy/mana-cart-social-assets/9b8bf708feea29a74d674d0f1059029e053f88a8/campaigns/2026112501/announcement.mp4"
 }
