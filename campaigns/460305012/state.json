@@ -4,19 +4,25 @@
   "tag": "v2026.11.27",
   "posts": {
     "facebook": {
-      "status": "sending",
+      "status": "sent",
       "postId": "6b0939311fd46e62e7256e6d",
-      "channelId": "6af6e5f262b70b94b018b1ae"
+      "channelId": "6af6e5f262b70b94b018b1ae",
+      "externalLink": "https://facebook.com/1419536927901598_122116363395516707",
+      "sentAt": "2026-11-27T08:03:12.381Z"
     },
     "instagram": {
       "status": "sending",
       "postId": "6b09393ee94385a8fd869295",
-      "channelId": "6af6ef7162b70b94b01912b0"
+      "channelId": "6af6ef7162b70b94b01912b0",
+      "externalLink": null,
+      "sentAt": null
     },
     "tiktok": {
       "status": "draft",
       "postId": "6b09394b1fd46e62e7257ac4",
-      "channelId": "6af6f00962b70b94b0191b28"
+      "channelId": "6af6f00962b70b94b0191b28",
+      "externalLink": null,
+      "sentAt": null
     }
   },
   "videoUrl": "https://raw.githubusercontent.com/joleneawy/mana-cart-social-assets/5a96636dd605f8a80364f00dd5be7508e2761ad9/campaigns/460305012/announcement.mp4"
